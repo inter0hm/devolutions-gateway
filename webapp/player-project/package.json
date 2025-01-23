@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "typescript": "~5.6.2",
-    "vite": "^6.0.1"
+    "vite": "^6.0.6"
   },
   "dependencies": {
     "asciinema-player": "^3.8.1",
