@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "ts-node": "^10.9.2",
-    "vite-plugin-dts": "^4.3.0"
+    "vite-plugin-dts": "^4.4.0"
   }
 }
