@@ -15,6 +15,6 @@
   },
   "dependencies": {
     "asciinema-player": "^3.8.1",
-    "i18next": "^24.2.1"
+    "i18next": "^24.2.3"
   }
 }
